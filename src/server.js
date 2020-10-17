@@ -6,8 +6,12 @@ const pages = require('./pages');
 // starting the express
 const server = express();
 
-// using static files
 server
+
+// use body order
+  .use(express.urlencoded({ extended: true }))
+
+// using static files
   .use(express.static('public'))
 
   // configure template engine
@@ -18,7 +22,8 @@ server
   .get('/', pages.index)
   .get('/orphanage', pages.orphanage)
   .get('/orphanages', pages.orphanages)
-  .get('/create-orphanage', pages.createOrphanage);
+  .get('/create-orphanage', pages.createOrphanage)
+  .post('/save-orphanage', pages.saveOrphanage);
 
 // turn on the server
 server.listen(5500);
