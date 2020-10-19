@@ -78,7 +78,7 @@ function toggleSelect(event) {
       button.classList.remove('active')
     });
   // put class .active on that clicked button
-  const button =event.currentTarget;
+  const button = event.currentTarget;
   button.classList.add('active');
   
   // update my hidden input with the selected value
@@ -89,11 +89,11 @@ function toggleSelect(event) {
 
 function validate(event) {
   
-  // validate that lat and lng are filled
+  const lat = document.getElementsByName('lat')[0].value;
+  const lng = document.getElementsByName('lng')[0].value;
 
-  const needsLatAndLng = false;
-  if(needsLatAndLng) {
+  if(!lat || !lng) {
     event.preventDefault();
-    alert('Selecione um ponto no mapa');
+    alert('Selecione um ponto no mapa 🗺');
   }
 }
