@@ -1,6 +1,10 @@
 // create map
 const map = L.map('mapid').setView([-27.222633,-49.6455874], 15);
 
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
 // create and add tileLayer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
@@ -88,12 +92,13 @@ function toggleSelect(event) {
 }
 
 function validate(event) {
-  
+  // validate map 
   const lat = document.getElementsByName('lat')[0].value;
   const lng = document.getElementsByName('lng')[0].value;
 
   if(!lat || !lng) {
     event.preventDefault();
     alert('Selecione um ponto no mapa 🗺');
+    window.scrollBy(0, -9999); 
   }
 }
