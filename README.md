@@ -5,8 +5,8 @@
 # NLW-3-Discovery
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>
-  <a href="#-licenca">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <br/>
