@@ -34,6 +34,8 @@ Projeto construído durante o Next Level Week #03
   
  </p>
 
+<br/>
+
 ## 🚀 Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -43,8 +45,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [SQLite](https://sqlite.org)
 * [Handlebars](https://handlebarsjs.com)
 
+<br/>
+
 ## 💻 Projeto 
 O happy é uma aplicação que conecta pessoas à casa de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
 
 Esse é um projeto desenvolvido durante durante a terceira **[Next Level Week](https://nextlevelweek.com)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**. 
 
+<br/>
+
+## 📝 Licença 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
