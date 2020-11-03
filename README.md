@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-licenca">Licença</a>
 </p>
 
 <br/>
@@ -36,9 +37,15 @@
 
 ## 🚀 Tecnologias 
 
-Esse projeto foi desenvolvido com as seguinttes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [Node.js](https://nodejs.org)
 * [Express](https://expressjs.com)
 * [SQLite](https://sqlite.org)
 * [Handlebars](https://handlebarsjs.com)
+
+
+## 📝 Licença 
+
+Esse projeto está sob a licenla MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
