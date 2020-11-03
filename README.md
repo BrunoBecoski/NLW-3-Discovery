@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -31,9 +32,7 @@
   
  </p>
 
-
-
-
+<br/>
 
 ## 🚀 Tecnologias 
 
@@ -44,6 +43,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [SQLite](https://sqlite.org)
 * [Handlebars](https://handlebarsjs.com)
 
+<br/>
+
+## 💻 Projeto 
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
+
+Esse é um projeto desenvolvido durante a terceira **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
+
+<br/>
 
 ## 📝 Licença 
 
