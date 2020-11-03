@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -14,23 +15,11 @@
 <br/>
 <br/>
 
-<p align="center"><strong>Happy - Home</strong></p>
 <p align="center">
   <img alt="Happy Home" src=".github/Happy_Home.gif" />
 </p>
 
-<p align="center">
-  <strong>Happy - Orphanages</strong>
-</p>
-<p align="center">
-  <img alt="Happy Orphanages" width="400" src=".github/Happy_Orphanages.png" />   
-</p>
 
-<p align="center">
-<img alt="Happy Orphanage" width="250" src=".github/Happy_Orphanage.png" />
-<img alt="Happy Create Orphanage" width="250" src=".github/Happy_CreateOrphanage.png" /> 
-  
- </p>
 
 <br/>
 
@@ -49,6 +38,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
 
 Esse é um projeto desenvolvido durante a terceira **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
+
+<br/>
+
+## 🖼 Layout
+
+<p align="center">
+  <strong>Happy - Orphanages</strong>
+</p>
+<p align="center">
+  <img alt="Happy Orphanages" width="400" src=".github/Happy_Orphanages.png" />   
+</p>
+
+<p align="center">
+<img alt="Happy Orphanage" width="250" src=".github/Happy_Orphanage.png" />
+<img alt="Happy Create Orphanage" width="250" src=".github/Happy_CreateOrphanage.png" /> 
+  
+ </p>
+
 
 <br/>
 
