@@ -2,9 +2,6 @@
   <img alt="Happy" src=".github/logo-black.svg" /> 
 </h1>
 
-# NLW-3-Discovery 
-Projeto construído durante o Next Level Week #03
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,9 +9,8 @@ Projeto construído durante o Next Level Week #03
   <a href="#-licença">Licença</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br/>
-<br/>
-<br/>
+# NLW-3-Discovery 
+Projeto construído durante o Next Level Week #03
 
 <p align="center">
   <img alt="Happy Home" src=".github/Happy_Home.gif" />
@@ -42,9 +38,6 @@ Esse é um projeto desenvolvido durante durante a terceira **[Next Level Week](h
 
 ## 🖼 Layout
 
-<p align="center">
-  <strong>Happy - Orphanages</strong>
-</p>
 <p align="center">
   <img alt="Happy Orphanages" width="400" src=".github/Happy_Orphanages.png" />   
 </p>
