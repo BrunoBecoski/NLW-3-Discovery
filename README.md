@@ -39,14 +39,15 @@ Esse é um projeto desenvolvido durante durante a terceira **[Next Level Week](h
 ## 🖼 Layout
 
 <p align="center">
-  <img alt="Happy Orphanages" width="400" src=".github/Happy_Orphanages.png" />   
+  <img alt="Happy Orphanages" width="800" src=".github/Happy_Orphanages.png" />   
 </p>
 
 <p align="center">
-<img alt="Happy Orphanage" width="250" src=".github/Happy_Orphanage.png" />
-<img alt="Happy Create Orphanage" width="250" src=".github/Happy_CreateOrphanage.png" /> 
-  
- </p>
+  <img alt="Happy Orphanage" width="400" src=".github/Happy_Orphanage.png" />
+</p>
+<p align="center">
+  <img alt="Happy Create Orphanage" width="400" src=".github/Happy_CreateOrphanage.png" />   
+</p>
 
 <br/>
 
